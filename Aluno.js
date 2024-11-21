@@ -8,7 +8,8 @@ class Aluno {
         this.grupo = grupo;
         this.nome = nome;
         this.apelido = apelido;
-        this.#senha = senha; // Define o valor do atributo privado "#senha" a partir do parâmetro recebido.
+        this.#senha = senha; // Define o valor do atributo privado "#senha" a partir do parâmetro 
+        recebido.
         this.validarGrupo(grupo); // Garante que o grupo esteja entre 1 e 6
         this.validarApelidoNaoNulo(apelido); // Garante que o apelido não seja nulo ou vazio
 	    this.estaVivo = true;  // Inicializa o atributo público "estaVivo" com o valor padrão "true".
