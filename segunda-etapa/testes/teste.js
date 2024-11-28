@@ -6,9 +6,9 @@ validarNome(nome) {
     if (typeof nome === "string" && /^[a-zA-Z ]+$/.test(nome)) {
         return nome; // Retorna o nome se todas as condições forem satisfeitas
                      // E se atende ao padrão que permite apenas letras (a-z, A-Z) e espaços.
-    }
+    };
     return "Validação não válida"; // Retorna uma mensagem indicando que o nome não passou na validação
-}
+};
 const luluzinha = new Aluno("Grupo 1", "Maria de Lourdes", "Luluzinha");
 const seiLaQuem = new Aluno(1, "Rei2", "Sei lá quem");
 const juju = new Aluno("Ju91", "@juju", "juca");
