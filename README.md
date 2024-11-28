@@ -1,11 +1,11 @@
 Este é um projeto de Back-End que tem o objetivo de criar um de gerenciamento de alunos e seus dados (DS-US).
 
 Participantes: 
--Bernardo;
--Caio;
--Enzo;
--Julia Guarnieri; 
--Luiza.
+- Bernardo;
+- Caio;
+- Enzo;
+- Julia Guarnieri; 
+- Luiza.
 
 Na segunda etapa as funções foram divididas da seguinte forma:
 
@@ -41,13 +41,13 @@ Caio:
 - Atualizar Campos de um aluno.
 
 Enzo:
-- Realizar comentários.
+- Realizar comentários no código do Marcelo.
 
 Júlia:
 - Rota Delete.
 - Refazer diagrama de classe.
 
 Luiza:
-- Comentários no código.
+- Realizar comentários no código do Marcelo.
 - Arrumar repositório.
 
