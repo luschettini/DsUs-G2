@@ -56,6 +56,7 @@ atualizarCampos({ grupo, nome, apelido, senha }) {
 }
 
 validarGrupo(grupo) {
+    
     if (typeof grupo !== 'number' || grupo < 1 || grupo > 6) {
     console.log('Grupo deve ser um número entre 1 e 6.');
     }

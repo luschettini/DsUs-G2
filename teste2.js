@@ -8,10 +8,11 @@ class Aluno {
         this.apelido = apelido; // Atribui o apelido ao objeto
     }
 
-
+     //Método para validar o grupo
     validarGrupo(grupo) {
+        // Verifica se o grupo não é um número ou se está fora do intervalo de 1 a 6
         if (typeof grupo !== 'number' || grupo < 1 || grupo > 6) {
-        console.log('Grupo deve ser um número entre 1 e 6.');
+        console.log('Grupo deve ser um número entre 1 e 6.');   // Exibe uma mensagem de erro no console
         }
     }
 
