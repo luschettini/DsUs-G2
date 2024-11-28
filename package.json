@@ -1,0 +1,18 @@
+{
+  "name": "dsus-g2",
+  "version": "1.0.0",
+  "description": "Este é um projeto de Back-End que tem o objetivo de criar um de gerenciamento de alunos e seus dados.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "\t",
+    "dev": "nodemon src/server.js"
+  },
+  "author": "CaioLacerda",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
