@@ -34,11 +34,13 @@ Luiza:
 Na terceira etapa as funções foram divididas da seguinte forma:
 
 Bernardo:
-- Realização de duas rotas.
+- Realização de duas rotas (put, post) alunos routes.
+- Validação de cadastro das duas rotas alunos routes.
 
 Caio:
-- Validar Senha.
-- Atualizar Campos de um aluno.
+- Validar Senha (em todas as rotas necessárias de alunos routes) .
+- Atualizar Campos de um aluno ( alunoroutes).
+- Realização de duas rotas (get, get all de alunos routes).
 
 Enzo:
 - Realizar comentários no código do Marcelo.

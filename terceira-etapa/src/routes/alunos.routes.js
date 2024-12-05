@@ -43,7 +43,7 @@ alunosRoutes.post("/", (req, res) => {
     return grupo;
   }
 
-  validarGrupo(grupo);
+  validarGrupo(grupo);  
 
   //Validação do campo apelido
   function validarApelidoNaoNulo(apelido) {
