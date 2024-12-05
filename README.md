@@ -39,19 +39,19 @@ Bernardo:
 
 Caio:
 - Validar Senha (em todas as rotas necessárias de alunos routes) .
-- Atualizar Campos de um aluno ( alunoroutes).
+- Atualizar Campos de um aluno ( aluno routes).
 - Realização de duas rotas (get, get all de alunos routes).
 
 Enzo:
 - Realizar comentários no código do Marcelo.
 
 Júlia:
-- Rota Delete.
-- Refazer diagrama de classe.
+- Rota Delete (aluno routes).
+- Refazer diagrama de classe (aluno).
 
 Luiza:
 - Realizar comentários no código do Marcelo, deixar o código com mais fácil entendimento.
 - Arrumar repositório.
-- organizar as pastas no vscode
+- Organizar as pastas no vscode.
   
 
