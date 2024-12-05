@@ -48,6 +48,8 @@ Júlia:
 - Refazer diagrama de classe.
 
 Luiza:
-- Realizar comentários no código do Marcelo.
+- Realizar comentários no código do Marcelo, deixar o código com mais fácil entendimento.
 - Arrumar repositório.
+- organizar as pastas no vscode
+  
 
